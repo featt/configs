@@ -1,2 +1,2 @@
 #!/bin/sh
-echo hello world
+echo "НЕТ ЭТО ЧЕРНОКНИЖНИК НА СЛИЗИ"
